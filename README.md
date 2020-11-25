@@ -5,7 +5,7 @@ To learn more about Eth2.0, refer to the [Eth2.0 specifications](https://github.
 *This repository is primarily a resource for developers, to share things which are not directly part of the specification,
  but rather some type of metadata or product of running the specification.*
 
-## Genesis
+## Genesis information
 
 ```yaml
 genesis_time: 1606824023
