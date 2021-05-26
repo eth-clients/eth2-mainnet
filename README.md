@@ -1,3 +1,5 @@
+⚠️ This repository has been archived in favour of [eth2-networks](https://github.com/eth2-clients/eth2-networks/tree/master/shared/mainnet) ⚠️
+
 # Eth2.0 Mainnet
 
 To learn more about Eth2.0, refer to the [Eth2.0 specifications](https://github.com/ethereum/eth2.0-specs).
